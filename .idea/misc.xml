@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/greet-api/GREET-API/pom.xml" />
+        <option value="$PROJECT_DIR$/adminServer/AdminServer/pom.xml" />
+        <option value="$PROJECT_DIR$/welcome-api/WELCOME-API/pom.xml" />
+        <option value="$PROJECT_DIR$/serviceRegistory/serviceRegistory/pom.xml" />
+        <option value="$PROJECT_DIR$/greet-api-provider/GREET-API/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK" />
+</project>
